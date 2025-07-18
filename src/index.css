@@ -1,0 +1,7 @@
+/* quick, minimal styles */
+body           { font-family: system-ui, sans-serif; }
+.url-form input { padding: 0.4rem 0.6rem; width: 50%; }
+.url-form button{ padding: 0.4rem 0.8rem; margin-left: 0.5rem; }
+.result        { margin-top: 1rem; }
+table          { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td         { border: 1px solid #ddd; padding: 0.5rem; text-align: left; }
